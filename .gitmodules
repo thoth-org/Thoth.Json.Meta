@@ -4,3 +4,6 @@
 [submodule "Thoth.Json.Fable"]
 	path = Thoth.Json.Fable
 	url = git@github.com:thoth-org/Thoth.Json.Fable.git
+[submodule "Thoth.Json.Newtonsoft"]
+	path = Thoth.Json.Newtonsoft
+	url = git@github.com:thoth-org/Thoth.Json.Newtonsoft.git
